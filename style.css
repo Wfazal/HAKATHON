@@ -1,0 +1,10 @@
+ .navbar {
+     display: flex;
+     background-color: rgb(243, 141, 141);
+ }
+
+ .active {
+     object-position: right;
+     color: red;
+ }
+
