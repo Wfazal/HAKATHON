@@ -15,7 +15,7 @@
     font-weight: bold;
     margin-top: 20px;
     border: none;
-    color: white;
+    color: rgb(255, 255, 255);
    font-size: x-small;
    padding-left: 50px;
    padding-right: 50px;
@@ -29,16 +29,16 @@
     position: absolute;
    top: 45%;
    margin-left: 5%;
-   color: white;
+   color: rgb(255, 255, 255);
  }
 .hero {
     width: 100%;
     height: 600px;
-    background-image: url(./images/respimg1.avif);
+   background-image: url(./images/rpMG.jpg);
    }
  .Find{
     font-weight: bold;
-    color: white;
+    color: rgb(255, 255, 255);
     position: absolute;
     top: 50%;
     margin-left: 5%;
